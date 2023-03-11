@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-° 🌱 I’m currently learning C, Python & Javascript
-° 📫 How to reach me: vazquezsantiago1332@gmail.com
-° 🩸 within cells interlinked.
+<br ▪🌱 I’m currently learning C, Python & Javascript />
+<br ▪📫 How to reach me: vazquezsantiago1332@gmail.com />
+<br ▪🩸 within cells interlinked. />
