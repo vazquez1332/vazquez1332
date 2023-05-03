@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#   A Computer Science student 📚   
+# 📚 A Computer Science student 📚   
 ## 📫 How to reach me: vazquezsantiago1332@gmail.com      
-### 🍃 young, wild and free 🍃 
+### just flow 🍃   
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
