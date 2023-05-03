@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 🦉  
-## Computer Science Student - Beginner Developer 📚    
-### 📫 How to reach me: vazquezsantiago1332@gmail.com      
+# Computer Science Student - Beginner Developer 📚🦉       
+## 📫 How to reach me: vazquezsantiago1332@gmail.com      
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
