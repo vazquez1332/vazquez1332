@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Computer Science Student - Beginner Developer  📚   
-## 📫 How to reach me: vazquezsantiago1332@gmail.com and [discordapp.com/users/vazquez#9686](https://discord.com/users/vazquez#9686)
-### just flow 🍃   
+#📚 Computer Science Student - Beginner Developer 🤞
+##📫 How to reach me: vazquezsantiago1332@gmail.com
+###just flow 🍃   
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
