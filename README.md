@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 📚 A Computer Science student 📚   
+# Computer Science Student - Beginner Developer  📚   
 ## 📫 How to reach me: vazquezsantiago1332@gmail.com      
 ### just flow 🍃   
 <h3 align="left">Languages:</h3>
