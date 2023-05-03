@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Computer Science Student - Beginner Developer  📚   
-## 📫 How to reach me: vazquezsantiago1332@gmail.com and [discordapp.com/users/](https://discord.com/users/vazquez#9686)
+## 📫 How to reach me: vazquezsantiago1332@gmail.com and [discordapp.com/users/vazquez#9686](https://discord.com/users/vazquez#9686)
 ### just flow 🍃   
 <h3 align="left">Languages:</h3>
 <p align="left">
