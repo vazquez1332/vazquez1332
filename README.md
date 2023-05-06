@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 📚 Computer Science Student - Beginner Developer 🦉       
+# 📚 Computer Science Student 🦉       
 ## 📫 How to reach me: vazquezsantiago1332@gmail.com      
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vazquez1332&theme=tokyo)](https://github.com/vazquez1332/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vazquez1332&theme=dracula)](https://github.com/vazquez1332/github-readme-stats)
