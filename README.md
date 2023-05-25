@@ -29,5 +29,5 @@ Here are some ideas to get you started:
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 </p>
-
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vazquez1332&theme=react&line_height=40&hide=css"/> </a>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vazquez1332&theme=dracula)](https://github.com/vazquez1332/github-readme-stats)
